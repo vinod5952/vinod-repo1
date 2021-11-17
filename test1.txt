@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F290-3D43
+
+ Directory of C:\Users\Lenovo\Desktop\git_project
+
+11/17/2021  10:07 AM    <DIR>          .
+11/17/2021  10:07 AM    <DIR>          ..
+11/17/2021  10:07 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  77,961,465,856 bytes free
